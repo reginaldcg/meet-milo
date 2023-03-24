@@ -1,9 +1,0 @@
-*.code-workspace
-*.gem
-Gemfile.lock
-_site
-.sass-cache
-.jekyll-cache
-
-.idea/*
-.vscode/*
