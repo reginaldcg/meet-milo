@@ -11,6 +11,65 @@ Examples of Usage
 
 Credit
 
+Boilerplate
+```
+Treeview
+
+meet-milo
+│   index.html
+│   readme.md
+│   script.js
+│   style.css
+│
+├───assets
+│   │   .gitkeep
+│   │
+│   └───img
+│           M1L0_1-1.png
+│           M1L0_1-2.png
+│           M1L0_1-3.gif
+│
+├───build
+│   │   .gitkeep
+│   │
+│   └───extension
+│       │   manifest.json
+│       │   service-worker.js
+│       │
+│       ├───icons
+│       │       128.png
+│       │       16.png
+│       │       32.png
+│       │       48.png
+│       │
+│       ├───options
+│       │       options.css
+│       │       options.html
+│       │       options.js
+│       │
+│       ├───popup
+│       │       popup.css
+│       │       popup.html
+│       │       popup.js
+│       │
+│       └───scripts
+│               content-script.js
+│
+├───public
+│       favicon.ico
+│       index.html
+│       logo192.png
+│       logo512.png
+│       manifest.json
+│       robots.txt
+│
+└───src
+        app.css
+        app.js
+        index.css
+        index.js
+        logo.svg
+```
 
 ```
 With Love,
