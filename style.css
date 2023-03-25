@@ -31,7 +31,7 @@ body {
 	padding: 0;
 	margin: 0;
 	font-family: sans-serif;
-	background: rgb(0, 136, 136);
+	background: rgb(0, 135, 135);
 	background: linear-gradient(90deg, rgba(0, 136, 136, 1) 0%, rgba(0, 128, 128, 1) 10%, rgba(0, 120, 120, 1) 20%, rgba(0, 112, 112, 1) 30%, rgba(0, 100, 100, 1) 40%, rgba(0, 93, 93, 1) 50%, rgba(0, 87, 87, 1) 60%, rgba(0, 76, 76, 1) 70%, rgba(0, 67, 67, 1) 80%, rgba(0, 61, 61, 1) 90%, rgba(0, 51, 51, 1) 100%);
 	color: rgb(255, 255, 255);
 }
