@@ -7,6 +7,7 @@ const m1l0Facts = [
   "Pugs have a way of stealing your heart and never giving it back.",
   "Pugs are like potato chips, you can't have just one.",
   "Pugs may be small, but their love is big.",
+  "Woof-woof! - 🦮.",
   "Pugs are like little rays of sunshine.",
   "Pugs are the ultimate cuddle buddies.",
   "A pug's love is unconditional and forever.",
